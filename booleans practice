@@ -1,0 +1,22 @@
+# slice learning
+x = 'we are here to destoy the world'
+y = 'thi shoo is goona mke tit gona make it crazy but we are able to the be thee grreat the connor the great'
+print(x.upper())
+print(y.lower())
+print(x.split())
+print(y.split())
+x = 'hello bitches what are you doinng'
+y = 'hwy why are you soo saD'
+print(x.split())
+print(y.split())
+# booleans
+print(20 > 2)
+print(50 > 2)
+print(646 == 646)
+print(646 == 6462)
+print(646 > 6462)
+mylist1 = [10, 24, 35, 43]
+mylist2 = [50, 60, 24, 87]
+mylist1.extend(mylist1)
+print(mylist1)
+print(mylist2)
