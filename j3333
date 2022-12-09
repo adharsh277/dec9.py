@@ -1,0 +1,15 @@
+# remove
+mylist = ['messi', 'ronaldo', 'neymar', 'ruchi']
+mylist.remove('ruchi')
+print(mylist)
+# emptylist
+mylist.clear()
+print(mylist)
+# arithemetic operator
+print(10 == 9)
+print(23764+3742)
+print(368478*2)
+print(78546/2)
+print(446384**223)
+print(27467//3)
+print(6255 % 5)
