@@ -1,0 +1,11 @@
+
+a = 400
+b = 500
+
+if b > a:
+    print("leo deserves the fifa WC")
+else:
+    print("CR deserves the fifa WC")
+age = 36
+txt = "My name is John, and I am {}"
+print(txt.format(age))
